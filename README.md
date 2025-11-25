@@ -1,3 +1,5 @@
+IPL Performance Analysis Dashboard
+
 The core objective was to transform raw IPL match data into a single, interactive analytical solution that provides strategic insights on team success factors, 
 player contributions, and critical match decisions (like the coin toss).
 
